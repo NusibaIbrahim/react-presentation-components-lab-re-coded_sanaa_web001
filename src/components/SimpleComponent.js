@@ -1,5 +1,5 @@
 // Code SimpleComponent Here
-mport React, { Component } from 'react';
+import React, { Component } from 'react';
 
 class SimpleComponent extends Component {
 
@@ -25,4 +25,4 @@ class SimpleComponent extends Component {
         )
     }
 }
-export default SimpleComponent 
+export default SimpleComponent
