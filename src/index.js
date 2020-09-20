@@ -12,7 +12,7 @@ const changeColor = (event) => {
 ReactDOM.render(
   <div>
     <SimpleComponent />
-    <SimplerComponent handleClick={undefined} />
+    <SimplerComponent handleClick={changeColor} />
   </div>,
   document.getElementById('root')
 );
