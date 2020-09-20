@@ -6,4 +6,4 @@ const SimplerComponent = (props) =>
       I am just happy
   </div>
 
-export default SimplerComponent
+export default SimplerComponent;
